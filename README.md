@@ -30,10 +30,9 @@ A comprehensive full-stack online learning platform built with Next.js, featurin
 - **Frontend**: Next.js 14, React, TypeScript
 - **Styling**: Tailwind CSS, shadcn/ui components
 - **State Management**: React Context API
-- **Authentication**: Custom role-based auth system
-- **Data Storage**: Local state management (ready for database integration)
-- **Icons**: Lucide React
-- **Charts**: Recharts for analytics visualization
+- **Authentication**: Supabase authentication
+- **Database**: Used Supabase(PostgreSQL)
+
 
 ## 📦 Installation
 
