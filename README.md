@@ -88,9 +88,3 @@ The platform comes with pre-configured demo accounts for testing:
 5. Create quizzes using the Quiz Builder
 6. Monitor student progress and engagement
 
-ers
-├── lib/                  # Utility functions and data
-├── hooks/                # Custom React hooks
-└── public/               # Static assets
-\`\`\`
-
