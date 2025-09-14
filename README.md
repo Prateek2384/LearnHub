@@ -38,10 +38,10 @@ A comprehensive full-stack online learning platform built with Next.js, featurin
 ## 📦 Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```
    git clone <repository-url>
    cd online-learning-platform
-   \`\`\`
+   ```
 
 2. **Install dependencies**
    \`\`\`bash
