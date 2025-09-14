@@ -39,19 +39,19 @@ A comprehensive full-stack online learning platform built with Next.js, featurin
 
 1. **Clone the repository**
    ```
-   git clone <repository-url>
-   cd online-learning-platform
+   git clone https://github.com/Prateek2384/LearnHub.git
+   cd LearnHub
    ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```
    npm install
-   \`\`\`
+   ```
 
 3. **Run the development server**
-   \`\`\`bash
+   ```
    npm run dev
-   \`\`\`
+   ```
 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
@@ -88,23 +88,7 @@ The platform comes with pre-configured demo accounts for testing:
 5. Create quizzes using the Quiz Builder
 6. Monitor student progress and engagement
 
-## 📁 Project Structure
-
-\`\`\`
-├── app/                    # Next.js app directory
-│   ├── auth/              # Authentication pages
-│   ├── instructor/        # Instructor dashboard and tools
-│   ├── student/           # Student learning interface
-│   └── layout.tsx         # Root layout with auth context
-├── components/            # Reusable React components
-│   ├── auth/             # Authentication components
-│   ├── instructor/       # Instructor-specific components
-│   ├── student/          # Student-specific components
-│   ├── quiz/             # Quiz system components
-│   ├── progress/         # Progress tracking components
-│   ├── layout/           # Navigation and layout components
-│   └── ui/               # shadcn/ui components
-├── contexts/             # React context providers
+ers
 ├── lib/                  # Utility functions and data
 ├── hooks/                # Custom React hooks
 └── public/               # Static assets
